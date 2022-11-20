@@ -91,7 +91,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
  
  ###  Executando test e2e 
    
-- ```ng test```, permite abrir a palicação no browser e interatuam com ela para garantir que as funcionalidades executam corretamente .
+- ```ng test```, permite abrir a palicação no browser e interatuam com ela para garantir que as funcionalidades executam corretamente.
  
  #
  
