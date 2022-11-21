@@ -15,7 +15,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
  
   #  Desafio 02 Angular
  
-  Esta aplicação foi construida em `Angular 5`, utilizando a plataforma `Vitets` que é um bundler, onde consegue usar compiladores e frameworks direto  da caixa, além da criação de hot module e replacement dentro do Projeto. Foi utilizado também o arquivo ``SASS(SCSS)``, que é um programa escrito em `Ruby` que reune folhas de estilo para um navegador, além de adicionar funcionalidades essenciais para o css como: variáveis, aninhamento, dentre outros. 
+  Esta aplicação foi construida em `Angular 5`, utilizando a plataforma `Vitets` que é um bundler, onde consegue usar compiladores e frameworks direto  da caixa, além da criação de hot module e replacement dentro do Projeto. Foi utilizado também o arquivo ``SASS(SCSS)`` que é um programa escrito em `Ruby`, que reune folhas de estilo para um navegador, além de adicionar funcionalidades essenciais para o css como: variáveis, aninhamento, dentre outros. 
   
    <br>
   
