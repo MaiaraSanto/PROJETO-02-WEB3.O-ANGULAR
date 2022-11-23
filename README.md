@@ -73,7 +73,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
  
 ###  Instalando o Material Angular
    
-- ```ng add @angular/material```, é a implementação oficial para o Angular do `material design` uma especificação de interfaces interativas do Google. O Material design cobre desde pequenos elementos como: ícones, cores;  até elementos maiores como : cards, imagens dentre outros.
+- ```ng add @angular/material``` é a implementação oficial para o Angular do `material design` uma especificação de interfaces interativas do Google. O Material design cobre desde pequenos elementos como: ícones, cores;  até elementos maiores como : cards, imagens dentre outros.
  
  #
  
