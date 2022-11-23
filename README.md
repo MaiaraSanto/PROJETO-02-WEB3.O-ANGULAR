@@ -49,7 +49,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
  
 ###  Efetuar o Projeto no servidor
    
-- ```ng serve```,  é um comando `ajudante` que permite executar o projeto Angular no ambiente de desenvolvimento, criando um servidor web local para servir os arquivos do programa. Executando este comando, clique no endereço ``http://localhost:4200/`` a aplicação carregará automaticamente os arquivos de origem no navegador.
+- ```ng serve```,  é um comando `ajudante` que permite executar o projeto Angular no ambiente de desenvolvimento, criando um servidor web local para servir os arquivos do programa. Executando este comando, clique no endereço http://localhost:4200/ a aplicação carregará automaticamente os arquivos de origem no navegador.
  
  #
  
