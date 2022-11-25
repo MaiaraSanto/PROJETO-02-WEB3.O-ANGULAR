@@ -15,7 +15,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
  
   #  Desafio 02 Angular
  
-  Esta aplicação foi construida em `Angular 5`, utilizando a plataforma `Vitets` que é um bundler, onde consegue usar compiladores e frameworks direto  da caixa, além da criação de hot module e replacement dentro do Projeto. Foi utilizado também o arquivo ``SASS(SCSS)`` que é um programa escrito em `Ruby`, que reune folhas de estilo para um navegador, além de adicionar funcionalidades essenciais para o css como: variáveis, aninhamento, dentre outros. 
+  Esta aplicação foi construida em `Angular 5`, utilizando a plataforma `Vitets` que é um bundler, onde consegue usar compiladores e frameworks direto da caixa, além da criação de hot module e replacement dentro do Projeto. Foi utilizado também o arquivo ``SASS(SCSS)`` que é um programa escrito em `Ruby`, que reune folhas de estilo para um navegador, além de adicionar funcionalidades essenciais para o css como: variáveis, aninhamento, dentre outros. 
   
    <br>
   
@@ -31,13 +31,13 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
         
    ###  Executar o comando CLI
  
- - ```npm install -g angular/cli```irá gerar o CLI( Command Line Interface) dentro do Angular, uma linha de comando cujo o objetivo principal será facilitar o gerenciamento do projeto nesse framework, além de executar o Angular dentro da máquina global.
+ - ```npm install -g angular/cli``` ,irá gerar o CLI( Command Line Interface) dentro do Angular, uma linha de comando cujo o objetivo principal será facilitar o gerenciamento do projeto nesse framework, além de executar o Angular dentro da máquina global.
  
  #
  
 ###  Começar um Projeto Angular
    
-- ```ng new``` ao criar esse comando, será inicializada uma nova pasta contendo uma estrutura de diretório com os arquivos necessários para uexecução do projeto.
+- ```ng new```, ao criar esse comando, será inicializada uma nova pasta contendo uma estrutura de diretório com os arquivos necessários para uexecução do projeto.
  
  #
  
@@ -67,13 +67,13 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
  
 ###  Criando o service
    
-- ```ng g s`` auxilia e separa do component algumas informações importantes como também o modo como iremos obter lógica de negócio e requisição ao servidor.
+- ```ng g s`` ,auxilia e separa do component algumas informações importantes como também o modo como iremos obter lógica de negócio e requisição ao servidor.
  
  #
  
 ###  Instalando o Material Angular
    
-- ```ng add @angular/material``` é a implementação oficial para o Angular do `material design` uma especificação de interfaces interativas do Google. O Material design cobre desde pequenos elementos como: ícones, cores;  até elementos maiores como : cards, imagens dentre outros.
+- ```ng add @angular/material``` ,é a implementação oficial para o Angular do `material design` uma especificação de interfaces interativas do Google. O Material design cobre desde pequenos elementos como: ícones, cores;  até elementos maiores como : cards, imagens dentre outros.
  
  #
  
