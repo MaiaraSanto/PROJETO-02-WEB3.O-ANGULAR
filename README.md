@@ -67,7 +67,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
  
 ###  Criando o service
    
-- ```ng g s`` ,auxilia e separa do component algumas informações importantes como também o modo como iremos obter lógica de negócio e requisição ao servidor.
+- ``ng g s`` ,auxilia e separa do component algumas informações importantes como também o modo como iremos obter lógica de negócio e requisição ao servidor.
  
  #
  
