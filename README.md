@@ -31,7 +31,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
         
    ###  Executar o comando CLI
  
- - ```npm install -g angular/cli``` ,irá gerar o CLI( Command Line Interface) dentro do Angular, uma linha de comando cujo o objetivo principal será facilitar o gerenciamento do projeto nesse framework, além de executar o Angular dentro da máquina global.
+ - ```npm install -g @angular/cli``` ,irá gerar o CLI( Command Line Interface) dentro do Angular, uma linha de comando cujo o objetivo principal será facilitar o gerenciamento do projeto nesse framework, além de executar o Angular dentro da máquina global.
  
  #
  
